@@ -14,7 +14,9 @@ static : method can run without creating any instance of Main >> what does it me
 
 To declare a variable, say "i"
 
+```
 int i;
+```
 
 ```if ... else``` implementation is same as in c++
 
@@ -25,7 +27,6 @@ For arrays use the following snippet
 ```
 int[] array;
 array = new int[size of the array];
-
 ```
 
 ## Loops 
@@ -41,8 +42,13 @@ or
 
 ```
 while (condition) {}
-
 ```
 
-
 ## Functions
+
+All functions must be within classes 
+
+## Objects
+
+
+##
